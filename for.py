@@ -120,7 +120,7 @@
 
 
 import random 
-randy=ram
+
 
 
 
