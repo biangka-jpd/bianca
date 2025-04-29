@@ -119,7 +119,90 @@
 
 
 
-import random 
+# import random 
+
+
+# print("ingrese un numero")
+# num=int(input())
+# n2=int(input())
+# suma=num+n2
+# print(suma)
+
+'''
+
+'''
+
+
+# print("ingrese un numero")
+# n1=float(input())
+# n2=float(input())
+# gs=n1/n2
+# print(gs)
+
+
+# print("ingrese un numero")
+# print("que quiere hacer?")
+# print("1 sumar , 2 restar , 3 dividir , 4 multiplicar ")
+# jj=int(input()) 
+# if jj==1:
+#     print("estara sumando")
+#     num=int(input())
+#     n2=int(input())
+#     suma=num+n2
+#     print(suma)
+# elif jj==2:
+#     print("estara restando")
+#     num=int(input())
+#     n2=int(input())
+#     resta=num-n2
+#     print(resta)
+# elif jj==3:
+#     print("estara dividiendo")
+#     num=int(input())
+#     n2=int(input())
+#     divicion=num/n2
+#     print(divicion)
+# elif jj==4:
+#     print("estara multiplicando")
+#     num=int(input())
+#     n2=int(input())
+#     multiplicacion=num*n2
+#     print(multiplicacion)
+# else: 
+    # print("escoger uno de los numeros que se muestran")
+
+
+
+# edad=-1
+# while (edad<0 or edad>100):
+#     edad=int(input("ingre edad :"))
+#     if (edad<0 or edad>100):
+#         print("edad, edad fuera de rango [0,100]")
+# print("edad ingresa exitosamente")
+
+
+
+# num=5 
+
+# while num!=0:
+#     num=int(input("ingrese un numero(cero para salir)"))
+#     if num % 2==0:
+#         print(f"el numero {num} es par")
+#     else:
+#         print(f"el numero {num} es impar")
+
+# print("cuantos numeros se ingresaron?")
+
+
+
+
+
+
+
+
+
+
+
 
 
 
