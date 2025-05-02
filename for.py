@@ -195,6 +195,117 @@
 
 
 
+import random
+
+# numAzar=random.randint(1,5)
+
+# print(numAzar)
+
+# esta mal
+
+# esta mal
+# numAadivinar=random.randint(1,50)
+
+# print("ingrese un numero")
+# num=int(input("adivine el numero"))
+# print(numAadivinar)
+
+# while num!=numeroAadivinar:
+# if numAadivinar<=:
+#     print("es mayor que", numAadivinar)
+# else: 
+#     print("es menor que", numAadivinar)
+
+
+# LUDO
+
+# import random
+# numAadivinar=random.randint 
+
+
+
+# meta=30
+# turno=1
+# dado=(1,6)
+# j1=0
+# j2=0
+
+# import random
+# import time
+
+# while j1<meta and j2<meta :
+#     turno +=1
+#     if turno % 2==0:
+#         print("jugador 1")
+#         time.sleep(1)
+#         dado=random.randint(1,6)
+#         j1 += dado
+#         print(f"el jugador saco{dado} navanza hasta la casilla {j1}")
+#     else: 
+#         print("jugador 2")
+#         time.sleep(1)
+#         dado=random.randint(1,6)
+#         j2 += dado 
+#         print(f"el jugador saco {dado} navaza hasta la casilla {j2}")
+
+# if j1>=meta :
+#     print("gana j1")
+# elif j2>=meta:
+#     print("gana j2")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pagar=200000
+descuento=0
+print("1- la florida 20% 2- la pintana 30% 3- puente alto 25% 4- san joaquin 15% ") 
+comuna=int(input("ingrese una comuna \n"))
+if comuna==1:
+    descuento+=20
+elif comuna==2:
+    descuento+=30
+elif comuna==3:
+    descuento+=25
+elif comuna==4:
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
