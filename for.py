@@ -195,7 +195,7 @@
 
 
 
-import random
+# import random
 
 # numAzar=random.randint(1,5)
 
@@ -260,48 +260,71 @@ import random
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-pagar=200000
-descuento=0
-print("1- la florida 20% 2- la pintana 30% 3- puente alto 25% 4- san joaquin 15% ") 
-comuna=int(input("ingrese una comuna \n"))
-if comuna==1:
-    descuento+=20
-elif comuna==2:
-    descuento+=30
-elif comuna==3:
-    descuento+=25
-elif comuna==4:
+# pagar=200000
+# descuento=0
+# print("1- la florida 20% 2- la pintana 30% 3- puente alto 25% 4- san joaquin 15% ") 
+# comuna=int(input("ingrese una comuna \n"))
+# if comuna==1:
+#     descuento+=20
+# elif comuna==2:
+#     descuento+=30
+# elif comuna==3:
+#     descuento+=25
+# elif comuna==4:
   
 
 
+# !:distinto de 
 
 
 
+# botella=600
+# sed=True
+# import time
+
+# while botella>=0 and sed:
+#     print("gluc, gluc")
+#     botella-=random.randint(20,60)
+#     print("queda", botella)
+#     resp=input("aun tiene sed? (si,no)")
+#     if resp=="no":
+#         sed=False
+#     time.sleep(1)
+
+
+# chocolate=1
+
+# if chocolate==1:
+#     print("hay chocolate")
+# else:
+#     print("no hay chocolate")
+
+# print("salio gta6 1.- si, 0.- no")
+# gta6=int(input())
 
 
 
+# if gta6==1:
+#     print(" se puede jugar")
+# else:
+#     print(" no se puede jugar")
 
 
+import random
 
+print("ingrese dos numeros mayor y menor")
 
+n1=int(input())
+n2=int(input())
 
+while n2 < n1:
+    print("el segundo numero tiene que ser mayor")
+    n2=int(input())
+n3=random.randint(n1,n2)
+ 
+for i in range (n3):
+    print("▄")
+   
 
 
 
