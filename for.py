@@ -128,9 +128,9 @@
 # suma=num+n2
 # print(suma)
 
-'''
+# '''
 
-'''
+# '''
 
 
 # print("ingrese un numero")
@@ -310,20 +310,17 @@
 #     print(" no se puede jugar")
 
 
-import random
-
-print("ingrese dos numeros mayor y menor")
-
-n1=int(input())
-n2=int(input())
-
-while n2 < n1:
-    print("el segundo numero tiene que ser mayor")
-    n2=int(input())
-n3=random.randint(n1,n2)
+# import random
+# print("ingrese dos numeros mayor y menor")
+# n1=int(input())
+# n2=int(input())
+# while n2 < n1:
+#     print("el segundo numero tiene que ser mayor")
+#     n2=int(input())
+# n3=random.randint(n1,n2)
  
-for i in range (n3):
-    print("▄")
+# for i in range (n3):
+#     print("▄")
    
 
 
