@@ -68,9 +68,84 @@
 
 
 
-def adivina_num():
-    numeroAadivinar=random.randint(1,50)
+# def adivina_num():
+#     numeroAadivinar=random.randint(1,50)
     
+
+# while True:
+#     try:
+#     num=int(input("ingrese un numero mayor que 3"))
+#     if num >3:
+#         break
+#     except Exception:
+#     print("solo debe ingresar numero")
+
+# total=0
+# carrito=0
+
+# while True:
+
+#     op=int(input('''seleccione su opcion
+#              1.- ingresar nombre de usuario
+#              2.- comprar, poner productos para comprar con su precio correspondiente
+#              3.- sacar boleta, calcular el precio neto + IVA
+#              4.- salir
+#              '''))
+
+#     match op:
+#         case 1:
+#             print("550")
+#             suma()
+#         case 2:
+#             print("750")
+#             suma()
+#         case 3:
+#             print("3000")
+#             suma()
+#         case 4:
+#             print("salir")
+#             suma()
+#         case _:
+#             print("") 
+
+
+
+# numAazar=0
+# cant_alumnos=0
+# n1=0
+# n2=0
+# n3=0
+# nota=0
+# cant=0
+
+
+# cant_alumnos=int(input("ingrese la cantidad de alumnos"))
+# print("ingrese la", cant ," de notas de el alumno", n1)
+
+# for i in range (n1):
+#     cant=3
+#     for i in range (3):
+#         nota=float(input())
+# for i in range (n2):
+#     for i in range (3):
+#         nota=float(input())
+# for i in range (n3):
+#     for i in range (3):
+#         nota=float(input())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
