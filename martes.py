@@ -40,8 +40,38 @@
 
 
 
+# Debe crear un menú de inicio de sesión
+
+# usuario1=None
+# usuario2=None
+# usuario3=None
+
+# contraseña1=None
+# contraseña2=None
+# contraseña3=None
 
 
+# while True:
+#     try:
+#         op=int(input('''
+#                 seleccione una opcion
+#                  1-. ingrese su numero de telefono
+#                  2-. ingrese su correo electronico
+#                  3-. salir
+#                  '''))
+#         match op:
+#             case 1:
+#                 print("ingrese su numero")
+#             case 2:
+#                 print("2")
+#             case 3:
+#                 print("3")
+#                 break
+#             case _:
+#                 print(" opcion invalida")
+#     except Exception:
+#         print("solo numeros enteros")
+            
 
 
 
